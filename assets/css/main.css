@@ -3358,3 +3358,35 @@ input, select, textarea {
 			}
 
 	}
+
+/* Team cards */
+.team-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.25em;
+  text-align: center;
+}
+
+.team-card .team-photo img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 0.75em auto;
+  display: block;
+}
+
+.team-card .name {
+  margin: 0.25em 0 0.25em 0;
+}
+
+.team-card .affiliation {
+  margin: 0 0 0.5em 0;
+  color: #666;
+  font-size: 0.95em;
+}
+
+.team-card .links a {
+  border-bottom: dotted 1px; /* matches your site’s link style */
+}
