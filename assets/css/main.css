@@ -3394,8 +3394,8 @@ input, select, textarea {
 
 /* Avatar grid */
 .avatar {
-  width: 140px;            /* adjust size as you like */
-  height: 140px;
+  width: 160px;            /* adjust size as you like */
+  height: 160px;
   border-radius: 50%;      /* makes the image circular */
   object-fit: cover;       /* crops to fill the circle */
   display: block;
