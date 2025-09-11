@@ -3410,6 +3410,6 @@ input, select, textarea {
 }
 
 .avatar:hover {
-  transform: scale(1.15); /* increases size by 10% */
+  transform: scale(1.2); /* increases size by 10% */
 }
 
