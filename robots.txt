@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alma-dmost.github.io/sitemap.xml
