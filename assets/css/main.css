@@ -3400,7 +3400,7 @@ input, select, textarea {
   object-fit: cover;       /* crops to fill the circle */
   display: block;
   margin: 0 auto;
-  border: 4px solid #222;  /* thin dark border like your mock */
+  border: 6px solid #222;  /* thin dark border like your mock */
   filter: grayscale(100%); /* optional: remove if you want color */
   transition: transform 0.3s ease; /* smooth animation */
 }
